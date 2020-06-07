@@ -1,2 +1,2 @@
 # Leetcode
-Repository for leetcode submissions
+Repository for any fun projects
